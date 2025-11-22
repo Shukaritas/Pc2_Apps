@@ -1,0 +1,6 @@
+@pc2NRCuCodigo_HostAddress = http://localhost:8080
+
+GET {{pc2NRCuCodigo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
